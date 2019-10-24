@@ -1,3 +1,5 @@
+# Intro To Github - Part 1
+
 If you are new to Git and Github, and even if you are not from any technical background, this article will clear all your myths related to it.
 
 
@@ -138,5 +140,3 @@ Thanks for Reading Mate!!
 This blog was focused mainly on basics of Git And GitHub.All the concepts like branching, merging, resolving merge conflicts will be covered in detail in  [Part-2](https://medium.com/@hrishabh01sharma/git-and-github-a-laymans-guide-part-2-61dcb051e8de).
 
 Happy Learning!!
-
--

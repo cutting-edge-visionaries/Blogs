@@ -21,7 +21,7 @@ Any topic that you like is accepted and until it deems fit for being publish.
 2. Write your blog into this file.
 ### Blog content
 1. Place all the images into this folder only.
-2. Follow the syntax of [markdown](https://guides.github.com/features/mastering-markdown/) to add images, links, styling etc.
+2. Follow the syntax of [markdown](https://guides.github.com/features/mastering-markdown/) to add images, links, styling etc. ([examples](https://guides.github.com/features/mastering-markdown/#examples))
 
 # Upload on GitHub
 There are other ways to upload your blog (changes) but bellow is the easiest and quickest method suitable for small changes.
